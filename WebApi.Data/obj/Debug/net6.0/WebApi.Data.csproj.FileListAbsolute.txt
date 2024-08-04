@@ -1,0 +1,17 @@
+D:\WebApi\WebApi.Data\bin\Debug\net6.0\WebApi.Data.deps.json
+D:\WebApi\WebApi.Data\bin\Debug\net6.0\WebApi.Data.runtimeconfig.json
+D:\WebApi\WebApi.Data\bin\Debug\net6.0\WebApi.Data.dll
+D:\WebApi\WebApi.Data\bin\Debug\net6.0\WebApi.Data.pdb
+D:\WebApi\WebApi.Data\bin\Debug\net6.0\WebApi.Domain.dll
+D:\WebApi\WebApi.Data\bin\Debug\net6.0\WebApi.Domain.pdb
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.Data.csproj.AssemblyReference.cache
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.Data.AssemblyInfoInputs.cache
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.Data.AssemblyInfo.cs
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.Data.csproj.CoreCompileInputs.cache
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.D.63A54CCA.Up2Date
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.Data.dll
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\refint\WebApi.Data.dll
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.Data.pdb
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\WebApi.Data.genruntimeconfig.cache
+D:\WebApi\WebApi.Data\obj\Debug\net6.0\ref\WebApi.Data.dll
